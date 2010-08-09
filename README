@@ -1,0 +1,12 @@
+== jQuery.contextMenu.js
+Overwrite the rightclick and show a context menu
+
+note this initial push is just updating .bind to .live.  
+
+== TODO 
+rewrite to be more jquery 1.4ish
+themeroller support
+cleanup / documentation
+
+
+You can checkout the original plugin and it's documentation <a href="http://www.trendskitchens.co.nz/jquery/contextmenu/"> here</a>.
