@@ -1,7 +1,11 @@
+== Changes
+I've updated it to work with FF 4, fixed a bug with the .live() and I think that's it.
+
+I looked a lot of right-click libraries before choosing this one, I really think it's The best.
+
+
 == jQuery.contextMenu.js
 Overwrite the rightclick and show a context menu
-
-note this initial push is just updating .bind to .live.  
 
 == TODO 
 rewrite to be more jquery 1.4ish
@@ -10,3 +14,5 @@ cleanup / documentation
 
 
 You can checkout the original plugin and it's documentation <a href="http://www.trendskitchens.co.nz/jquery/contextmenu/"> here</a>.
+
+These demos won't work with FF4, but you can check them out on IE/safari/chrome.
